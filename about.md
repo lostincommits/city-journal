@@ -1,2 +1,4 @@
 I started keeping these notes as a way to remember places I visited and interesting things I found along the way.
 My Real name: Ethan Walker
+
+"Don't trust the file order. Inspect everything."
